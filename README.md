@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Grady _(he/him)_. I am an accessiblity engineer at [DocuSign](https://www.docusign.com/) in the Seattle area.
+I'm Grady _(he/him)_. I am an accessibility engineer at [Docusign](https://www.docusign.com/) in the Seattle area.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gradythompson/)
 [![Website](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.gradyt.com/)
